@@ -1,0 +1,12 @@
+[
+  { "name": "Courtyard Standard", "type": "standard", "pricePerNight": 3200, "capacity": 2, "quantity": 8,
+    "description": "A calm room facing the lantern-lit inner courtyard.", "amenities": ["Free Wi-Fi", "Air conditioning", "Tea & coffee"] },
+  { "name": "Garden Deluxe", "type": "deluxe", "pricePerNight": 4800, "capacity": 2, "quantity": 6,
+    "description": "Larger room with a private balcony over the garden.", "amenities": ["Free Wi-Fi", "Balcony", "Breakfast included", "Smart TV"] },
+  { "name": "Heritage Suite", "type": "suite", "pricePerNight": 8900, "capacity": 3, "quantity": 2,
+    "description": "Separate living room, restored teak furniture and a soaking tub.", "amenities": ["Free Wi-Fi", "Living room", "Bathtub", "Breakfast included", "Airport pickup"] },
+  { "name": "Family Room", "type": "family", "pricePerNight": 6200, "capacity": 4, "quantity": 4,
+    "description": "Two queen beds and space for the whole family.", "amenities": ["Free Wi-Fi", "Two queen beds", "Breakfast included", "Kids' kit"] },
+  { "name": "Single Standard", "type": "standard", "pricePerNight": 2400, "capacity": 1, "quantity": 5,
+    "description": "Compact and quiet, ideal for solo business trips.", "amenities": ["Free Wi-Fi", "Work desk", "Air conditioning"] }
+]
